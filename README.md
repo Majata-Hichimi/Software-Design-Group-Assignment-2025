@@ -6,5 +6,5 @@
 
 #Group_A1
 
-#Group Members:Nachula Nachamba 2410157 ,Majata Hichimi 2410181,Davis Manchishi 24100093
+#Group Members:Nachula Nachamba 2410157 ,Majata Hichimi 2410181,Davies Manchishi 2410093
 
